@@ -1,0 +1,11 @@
+{
+  "name": "@babel/plugin-remove-vconsole",
+  "version": "1.0.0",
+  "description": "A babel plugin to automatically remove the vconsole in the production environment",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pubdreamcc",
+  "license": "ISC"
+}
