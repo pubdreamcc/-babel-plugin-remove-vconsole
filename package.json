@@ -1,5 +1,5 @@
 {
-  "name": "@babel/plugin-remove-vconsole",
+  "name": "babel-plugin-resolve-vconsole",
   "version": "1.0.0",
   "description": "A babel plugin to automatically remove the vconsole in the production environment",
   "main": "lib/index.js",

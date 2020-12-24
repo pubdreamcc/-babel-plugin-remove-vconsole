@@ -3,7 +3,7 @@
 ## Usage
 
 ```npm
-npm i @babel/plugin-remove-vconsole --save-dev (or yarn)
+npm i babel-plugin-resolve-vconsole --save-dev (or yarn)
 ```
 
 * in babel config file (eg .babelrc)
